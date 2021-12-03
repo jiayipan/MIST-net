@@ -10,17 +10,27 @@ If you use this code for your research, please cite our paper:
 bib.....
 ```
 
-## Code
-
 ### Install dependencies
 cuda=11.1, python=3.8, torch=1.8
-Before trainng, you should install a library named CTLIB.
-
-###  Train and Test
-To train mist-net model on your own image, put the desired training image under Input/Images, and run
+Before trainng, you should install a library named CTLIB. Run
 
 ```
-python main_train.py
+python setup.py install
+```
+
+###  Own datasets
+To train mist-net model on your own image, we may need generate datasets. Run
+
+```
+python fbpanglepro2imgtest.py
+```
+
+
+###  Train and Test
+Run
+
+```
+python mainMISTnet.py
 ```
 
 
