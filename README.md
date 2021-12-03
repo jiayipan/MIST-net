@@ -1,4 +1,4 @@
-# MIST-net
+# MIST-net：Multi-domain Integrative Swin Transformer network for Sparse-View CT Reconstruction
 
 #Code is about to be released
 
