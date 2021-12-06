@@ -1,4 +1,4 @@
-# MIST-net
+# MIST
 
 [Project](https://github.com/jiayipan/MIST-net) | [Arxiv](https://arxiv.org/abs/2111.14831) .
 
